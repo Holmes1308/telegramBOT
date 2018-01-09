@@ -1,7 +1,36 @@
 <application>
   <component name="ActionsCollector">
     <counts>
-      <entry action="Configure Python Interpreter" count="1" />
+      <entry action="$Copy" count="8" />
+      <entry action="$Cut" count="6" />
+      <entry action="$Delete" count="1" />
+      <entry action="$Paste" count="37" />
+      <entry action="$Undo" count="58" />
+      <entry action="ChangesView.Revert" count="1" />
+      <entry action="ChooseRunConfiguration" count="35" />
+      <entry action="Configure Python Interpreter" count="3" />
+      <entry action="CopyPaths" count="1" />
+      <entry action="EditorBackSpace" count="591" />
+      <entry action="EditorChooseLookupItem" count="28" />
+      <entry action="EditorCopy" count="10" />
+      <entry action="EditorDelete" count="24" />
+      <entry action="EditorDown" count="28" />
+      <entry action="EditorEnter" count="45" />
+      <entry action="EditorLeft" count="139" />
+      <entry action="EditorPaste" count="8" />
+      <entry action="EditorRight" count="292" />
+      <entry action="EditorTab" count="3" />
+      <entry action="EditorUp" count="23" />
+      <entry action="HideAllWindows" count="5" />
+      <entry action="NewDirectoryProject" count="1" />
+      <entry action="NewPythonFile" count="4" />
+      <entry action="Print" count="1" />
+      <entry action="Rerun" count="3" />
+      <entry action="Run" count="48" />
+      <entry action="RunClass" count="1" />
+      <entry action="ShowBookmarks" count="1" />
+      <entry action="Stop" count="17" />
+      <entry action="ToggleLineBreakpoint" count="2" />
     </counts>
   </component>
 </application>
